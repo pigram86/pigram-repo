@@ -3,57 +3,6 @@ pigram-repo
 
 my other chef repo
 
-
-
-    Explore
-    Gist
-    Blog
-    Help
-
-    pigram86
-
-    1
-    0
-    0
-
-public pigram86 / pigram-repo
-
-pigram-repo /
-
-or cancel
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
 The chef-repo
 ===============
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
@@ -78,16 +27,5 @@ Now that you have the chef-repo ready to go, check out [Learn Chef](https://lear
 Commit summary: Extended description: (optional)
 pigram86 todd@toddpigram.com
 
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-
-    © 2013 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
+  
 
