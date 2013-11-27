@@ -17,9 +17,9 @@ Vagrant.configure("2") do |config|
   # doesn't already exist on the user's system.
   config.vm.box_url = "https://opscode-vm-bento.s3.amazonaws.com/vagrant/opscode_ubuntu-12.04_provisionerless.box"
 
-  config.omnibus.chef_version = :latest
+  #config.omnibus.chef_version = :latest
 
-  config.berkshelf.enabled = true
+  #config.berkshelf.enabled = true
 
   # This can be set to the host name you wish the guest machine to have. Vagrant
   # will automatically execute the configuration necessary to make this happen.
